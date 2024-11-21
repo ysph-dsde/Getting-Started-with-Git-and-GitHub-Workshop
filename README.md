@@ -20,7 +20,7 @@ You can find out more about past and upcoming tutorials on our YouTube (coming s
 
 ## About Repository
 
-There are two GitHub repsitories associated with this workshop: [JHU-CRC-Cases-and-Recoveries](https://github.com/ysph-dsde/JHU-CRC-Cases-and-Recoveries) and [JHU-CRC-Vaccinations](https://github.com/ysph-dsde/JHU-CRC-Vaccinations). This repository includes the full slide deck used in the workshop.
+This repository stands as the unifying GitHub page for the Getting Started with Git and GitHub workshop. In it, you will only find the the full slide deck that was used during the workshop. There are two additional GitHub repsitories associated with this workshop that include the worked through example code: [JHU-CRC-Cases-and-Recoveries](https://github.com/ysph-dsde/JHU-CRC-Cases-and-Recoveries) and [JHU-CRC-Vaccinations](https://github.com/ysph-dsde/JHU-CRC-Vaccinations).
 
 ## About Original Data Source
 
